@@ -1,8 +1,8 @@
 ### Hi there 👋🏼.
 
-**I am Salim, a Backend Engineer who believes that for every complex problem there is an answer that is either clear, simple or wrong. I take pride in finding out.**
+**I'm Salim. A Backend Engineer who believes that; for every complex problem, there is an answer that is either clear, simple, or wrong. I take pride in finding out.**
 
-> *If you are already here, do take a glipmse of repositories on my Github.*
+> *If you are already here, do take a glimpse of the repositories on my Github.*
 
 
 ## Lets Connect:
