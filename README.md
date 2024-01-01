@@ -4,6 +4,15 @@
 
 > *If you are already here, do take a glimpse of the repositories on my Github.*
 
+Here's a quick summary about me:
+- 🔭 I’m currently working on a Logistic app
+- 🌱 I’m currently learning JAVA
+- 👯 I’m looking to collaborate on any interesting and challenging projects
+- 💬 Ask me anything about Node.js
+- 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can be a bit weird - it's part of my charm!
+
 
 ## Lets Connect:
 <a href="https://twitter.com/salimkarbm" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
