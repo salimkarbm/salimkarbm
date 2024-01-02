@@ -1,12 +1,12 @@
 ### Hi there 👋🏼.
 
-**I'm Salim. As a Backend Engineer, I hold the conviction that every intricate issue has a solution that is either lucid, uncomplicated, or incorrect, and I derive satisfaction from unraveling them.**
+**I'm Salim. A Backend Engineer Who believes that; for every complex problem there is an answer that is either clear, simple, or wrong, I take pride in finding out.**
 
 > *If you are already here, do take a glimpse of the repositories on my Github.*
 
 Here's a quick summary about me:
 - 🔭 I’m currently working on a Logistic app
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any interesting and challenging projects
 - 💬 Ask me anything about Node.js
 - 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
@@ -27,19 +27,3 @@ Here's a quick summary about me:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
-
-
-<!--
-**salimkarbm/salimkarbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
