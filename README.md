@@ -25,7 +25,7 @@ Here's a quick summary about me:
  ![Redis](https://img.shields.io/badge/Redis-critical?style=for-the-badge&logo=redis&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Jest](https://img.shields.io/badge/Jest-%important.svg?style=for-the-badge&logo=Jest&logoColor=%white)
+ ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![NestJs](https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white)
