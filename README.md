@@ -6,7 +6,7 @@
 
 Here's a quick summary about me:
 - 🔭 I’m currently working on a Logistic app
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on any interesting and challenging projects
 - 💬 Ask me anything about Node.js
 - 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
