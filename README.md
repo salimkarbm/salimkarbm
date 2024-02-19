@@ -5,7 +5,7 @@
 > *If you are already here, do take a glimpse of the repositories on my Github.*
 
 Here's a quick summary about me:
-- 🔭 I’m currently working on a Logistic app
+- 🔭 I'm currently working on a logistics app.
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on any interesting and challenging projects
 - 💬 Ask me anything about Node.js
