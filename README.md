@@ -5,10 +5,10 @@
 > *If you are already here, do take a glimpse of the repositories on my Github.*
 
 Here's a quick summary about me:
-- 🔭 I'm currently working on a logistics app.
+- 🔭 I'm currently working on building scalable backend systems.
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on any interesting and challenging projects
-- 💬 Ask me anything about Node.js
+- 👯 I’m looking to collaborate on any interesting and challenging backend projects, microservices, and APIs
+- 💬 Ask me anything about Express.js, Nest.js
 - 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be a bit weird - it's part of my charm!
