@@ -6,7 +6,7 @@
 
 Here's a quick summary about me:
 - 🔭 I'm currently working on building scalable backend systems and smart contracts.
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on any interesting and challenging backend projects, microservices APIs, smart contracts
 - 💬 Ask me anything about Express.js, Nest.js
 - 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
