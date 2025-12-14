@@ -1,21 +1,21 @@
 ### Hi there 👋🏼.
 
-**I'm Salim. A Backend Engineer Who believes that; for every complex problem there is an answer that is either clear, simple, or wrong, I take pride in finding out.**
+**I'm Salim. A Backend Engineer who believes that, for every complex problem, there is an answer that is either clear, simple, or wrong. I take pride in finding out.**
 
-> *If you are already here, do take a glimpse of the repositories on my Github.*
+> *If you are already here, do take a glimpse at the repositories on my GitHub.*
 
 Here's a quick summary about me:
-- 🔭 I'm currently working on building scalable backend systems and smart contracts.
+- 🔭 I'm currently working on building scalable backend systems.
 - 🌱 I’m currently learning Rust
 - 👌🏾 Exploring the integration of AI and ML models into web applications.
-- 👯 I’m looking to collaborate on any interesting and challenging backend projects, microservices APIs, smart contracts
+- 👯 I’m looking to collaborate on any interesting and challenging backend projects, microservices APIs.
 - 💬 Ask me anything about Express.js, Nest.js
 - 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be a bit weird - it's part of my charm!
 
 
-## Lets Connect:
+## Let's Connect:
 <a href="https://twitter.com/salimkarbm" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/salim-karbm/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:salimimuzai@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -40,8 +40,6 @@ Here's a quick summary about me:
  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
- ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
  
