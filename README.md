@@ -8,8 +8,8 @@ Here's a quick summary about me:
 - 🔭 I'm currently working on building scalable backend systems.
 - 🌱 I’m currently learning Rust
 - 👌🏾 Exploring the integration of AI and ML models into web applications.
-- 👯 I’m looking to collaborate on any interesting and challenging backend projects, microservices APIs.
-- 💬 Ask me anything about Express.js, Nest.js
+- 👯 I’m looking to collaborate on any interesting and challenging backend projects, microservices, real-time systems, and data-intensive platforms.
+- 💬 Ask me anything about Express.js and Nest.js
 - 📫 How to reach me: [salimimuzai@gmail.com](mailto:salimimuzai@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be a bit weird - it's part of my charm!
